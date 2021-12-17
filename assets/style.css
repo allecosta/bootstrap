@@ -1,0 +1,36 @@
+
+body {
+	font: 20px Arial, sans-serif;
+	background-color: #c9c9c9;
+}
+
+.navbar {
+	background-color: #ffffff;
+	
+}
+
+.navbar-brand img {
+	margin-left: 15px;
+}
+
+}
+
+#php {
+	margin: 20px;	
+
+}
+
+#php img {
+	margin-bottom: 15px;
+}
+
+.margin {
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+
+.bg-footer {
+	background-color: #040B14;
+	color: #ffffff;
+	padding: 30px;
+}
